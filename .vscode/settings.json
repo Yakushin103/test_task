@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "bysabi.prettier-vscode-standard",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": false,
+    "eslint.format.enable": false,
+    "eslint.codeActionsOnSave.rules": null
+}
